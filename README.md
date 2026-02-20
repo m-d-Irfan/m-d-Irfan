@@ -7,11 +7,8 @@
 - 🎓 **CSE Alumnus** from [Port City International University](https://www.portcity.edu.bd)
 - 🚀 Currently building scalable **REST APIs** and exploring **AI tools**
 - 🛠️ Tech Stack: **Django, DRF, PostgreSQL, Redis, and Docker**
-
-### 📬 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/monzurul-islam-irfan/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:monzurulislamcse.0208@gmail.com)
+  
+- 📫 How to reach me **monzurulislamcse.0208@gmail.com**
 
 
 
