@@ -8,8 +8,7 @@
 - 🚀 Currently building scalable **REST APIs** and exploring **AI tools**
 - 🛠️ Tech Stack: **Django, DRF, PostgreSQL, Redis, and Docker**
   
-- 📫 How to reach me
-  [![Gmail]([https://img.shields.io](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white))](mailto:monzurulislamcse.0208@gmail.com)
+- 📫 How to reach me [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:monzurulislamcse.0208@gmail.com)
 
 
 
