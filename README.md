@@ -51,8 +51,8 @@
 <br>
 <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/handshake.gif" alt="handshake" width="100" height="120" />
 <br>
-<!-- <a href="https://www.linkedin.com/in/monzurul-islam-irfan/" target="_blank">
-    <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/linkedin%20logo_icon.svg" alt="LinkedIn" width="40" height="30" ></a> -->
+<a href="https://www.linkedin.com/in/monzurul-islam-irfan/" target="_blank">
+    <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/linkedin%20logo_icon.svg" alt="LinkedIn" width="40" height="30" ></a>
 <a href="https://discord.com/979796358800236594" target="_blank">
     <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/discord-icon.svg" alt="Discord" width="40" height="30" ></a>
 <a href="https://t.me/m_d_Irfann" target="_blank">
