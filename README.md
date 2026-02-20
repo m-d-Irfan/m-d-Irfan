@@ -3,13 +3,15 @@
 
 <h1 align="center"><img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/wave.gif" width="60px"/>I'm Monzurul Islam</h1>
 
-- 🐍 I’m currently learning Django
-<!-- BREVE DESCRIPCION -->
-- 📚 I am currently a 4th year CSE student at [Port City International University](https://www.portcity.edu.bd)
+- 🐍 **Backend Developer** specializing in **Python & Django**
+- 🎓 **CSE Alumnus** from [Port City International University](https://www.portcity.edu.bd)
+- 🚀 Currently building scalable **REST APIs** and exploring **AI tools**
+- 🛠️ Tech Stack: **Django, DRF, PostgreSQL, Redis, and Docker**
 
-- 🐱‍💻 I am currently in the race for **Backend Developer**
+### 📬 Connect with me:
+[<img src="https://img.shields.io" />](https://www.linkedin.com/in/monzurul-islam-irfan/)
+[<img src="https://img.shields.io" />](mailto:monzurulislamcse.0208@gmail.com)
 
-- 📫 How to reach me **monzurulislamcse.0208@gmail.com**
 
 ## 📕 My Latest Projects:
 
@@ -28,8 +30,8 @@
 
 | | |
 |----------|--------|
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)&nbsp; ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp; ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp; ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)&nbsp; |
-| **Backend** | ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp; ![Django](https://img.shields.io/badge/Django-24a357?style=for-the-badge&logo=django&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp; ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp; ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)&nbsp; |
+| **Backend** | ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp; ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp; ![Django](https://img.shields.io/badge/Django-24a357?style=for-the-badge&logo=django&logoColor=white) |
 | **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp; ![Appwrite](https://img.shields.io/badge/-Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)&nbsp; ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Version Control & CI/CD** | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp; ![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
 | **Deployment & Hosting** | ![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp; ![Glitch](https://img.shields.io/badge/glitch-3333FF?style=for-the-badge&logo=glitch&logoColor=white)&nbsp; ![GithubPages](https://img.shields.io/badge/github%20pages-222222?style=for-the-badge&logo=github&logoColor=white) |
