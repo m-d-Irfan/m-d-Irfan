@@ -10,8 +10,8 @@
 
 ### 📬 Connect with me:
 
-[<img src="https://img.shields.io" />](https://www.linkedin.com/in/monzurul-islam-irfan/)
-[<img src="https://img.shields.io" />](mailto:monzurulislamcse.0208@gmail.com)
+[![LinkedIn](https://img.shields.io)](https://www.linkedin.com/in/monzurul-islam-irfan/)
+[![Gmail](https://img.shields.io)](mailto:monzurulislamcse.0208@gmail.com)
 
 
 
