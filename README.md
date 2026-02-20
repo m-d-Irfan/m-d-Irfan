@@ -11,7 +11,7 @@
 ### 📬 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/monzurul-islam-irfan/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monzurulislamcse.0208@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:monzurulislamcse.0208@gmail.com)
 
 
 
