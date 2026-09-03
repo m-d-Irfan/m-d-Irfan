@@ -51,23 +51,12 @@
 ## 📊 Github Stats
 
 <p align="center">
-  <!-- GHChart: contributions heatmap (Option B) -->
+ 
   <a href="https://github.com/m-d-Irfan" target="_blank" rel="noopener noreferrer">
     <img src="https://ghchart.rshah.org/m-d-Irfan" alt="Monzurul's GitHub contributions chart" />
   </a>
 </p>
-
-![Monzurul's Contribution Chart](https://ghchart.rshah.org/39d353/m-d-Irfan)
-
-<p align="center">
-  <a href="https://github.com/m-d-Irfan" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-d-Irfan&theme=github-compact" alt="Monzurul's GitHub contributions" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/m-d-Irfan/m-d-Irfan/output/github-contribution-grid-dark.svg" alt="Monzurul's GitHub contributions" />
-</p>
+ <!-- ![Monzurul's Contribution Chart](https://ghchart.rshah.org/39d353/m-d-Irfan) -->
 <br>
 
 ## 🛠️ Skills
