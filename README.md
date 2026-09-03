@@ -65,6 +65,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m-d-Irfan/m-d-Irfan/output/github-contribution-grid-dark.svg" alt="Monzurul's GitHub contributions" />
+</p>
 <br>
 
 ## 🛠️ Skills
