@@ -49,8 +49,15 @@
 <br>
 
 ## 📊 Github Stats
-![Monzurul's github stats](https://github-readme-stats.vercel.app/api?username=m-d-Irfan&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=stars,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-d-Irfan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/m-d-Irfan/github-readme-stats)
+
+<p align="center">
+  <!-- GHChart: contributions heatmap (Option B) -->
+  <a href="https://github.com/m-d-Irfan" target="_blank" rel="noopener noreferrer">
+    <img src="https://ghchart.rshah.org/m-d-Irfan" alt="Monzurul's GitHub contributions chart" />
+  </a>
+</p>
+<!-- ![Monzurul's github stats](https://github-readme-stats.vercel.app/api?username=m-d-Irfan&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=stars,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-d-Irfan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/m-d-Irfan/github-readme-stats) -->
 </div>
 <br>
 
