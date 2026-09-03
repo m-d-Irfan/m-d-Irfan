@@ -57,16 +57,8 @@
   </a>
 </p>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-d-Irfan&theme=react-dark)
 ![Monzurul's Contribution Chart](https://ghchart.rshah.org/39d353/m-d-Irfan)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-d-Irfan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-d-Irfan&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
-<!-- ![Monzurul's github stats](https://github-readme-stats.vercel.app/api?username=m-d-Irfan&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=stars,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-d-Irfan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/m-d-Irfan/github-readme-stats) -->
-</div>
 <br>
 
 ## 🛠️ Skills
