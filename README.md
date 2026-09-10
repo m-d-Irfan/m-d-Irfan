@@ -85,7 +85,7 @@
 
 - 💡 **Computer Science Fundamentals**, Phitron (2023 – 2024): C++, Python, DSA, OOP, PostgreSQL, Django, REST APIs, AWS
 - 🔄 **Master Git and GitHub** (Feb 2025): Version control workflows, branching, merge conflict resolution, team collaboration
-- 🚀 **Next Level Web Dev**, Programming Hero (Apr – Oct 2026): TypeScript, Node.js, Express, PostgreSQL, Prisma, Next.js, JWT, Docker, AI chat integration
+- 🚀 **Next Level Web Dev**, Programming Hero (Apr 2026 – Oct 2026): TypeScript, Node.js, Express, PostgreSQL, Prisma, Next.js, JWT, Docker, AI chat integration
 
 ## 🗣️ Languages
 - 🇬🇧 **English** (Conversational)
