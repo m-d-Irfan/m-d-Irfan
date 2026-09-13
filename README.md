@@ -5,7 +5,7 @@
 - 🐍 **Full-stack Developer** specializing in **TypeScript, Next.js, React.js, Python, Django**
 - 🎓 **CSE Alumnus** from [Port City International University](https://www.portcity.edu.bd)
 - 🚀 Currently building scalable **REST APIs** and exploring **AI tools**
-- 🛠️ Tech Stack: **React, Next, TailwindCSS, Django, DRF, REST APIs, PostgreSQL, Prisma ORM, Stripe, SSLcommerz, Redis, and Docker**
+- 🛠️ Tech Stack: **React, Next, TailwindCSS, Django, DRF, REST APIs, PostgreSQL, Prisma ORM, Stripe, SSLcommerz, Redis, Nginix and Docker**
 - 📫 How to reach me [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:monzurulislamcse.0208@gmail.com)
 
 ## 📕 My Latest Projects:
