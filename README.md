@@ -99,7 +99,7 @@
 <div align="center">
 ＣＯＮＮＥＣＴ　ＷＩＴＨ　ＭＥ
 <br>
-<img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/handshake.gif" alt="handshake" width="100" height="100" />
+<img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/handshake.gif" alt="handshake" width="100" height="80" />
 <br>
 <a href="https://github.com/m-d-Irfan" target="_blank">
     <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/github.svg" alt="GitHub" width="40" height="30" ></a>
