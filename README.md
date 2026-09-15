@@ -12,11 +12,6 @@
 
 <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/loading.gif"> Developer working in Backend
 
-<!--
- [Display the project name with link ](https://the_Project_link)
----
--->
-
 ### 🛍️ GrabGear — Peer-to-Peer Rental Marketplace 
 > **Tech Stack:** `Next.js 15 (App Router)`, `TypeScript`, `Node.js`, `Express.js`, `PostgreSQL`, `Prisma ORM`, `Zustand`, `Stripe API`, `JWT OAuth`  
 > 🔗 **Links:** [🌐 Live Demo](#) | [💻 Client](https://github.com/m-d-Irfan) | [⚙️ Server](https://github.com/m-d-Irfan)
