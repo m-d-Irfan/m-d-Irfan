@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/wave.gif" width="60px"/>I'm Monzurul Islam</h1>
 
 - 🐍 **Full-stack Developer** specializing in **TypeScript, Next.js, React.js, Python, Django**
-- 🎓 **CSE Alumnus** from [Port City International University](https://www.portcity.edu.bd)
+- 🎓 **CSE Graduate** from [Port City International University](https://www.portcity.edu.bd)
 - 🚀 Currently building scalable **REST APIs** and exploring **AI tools**
 - 🛠️ Tech Stack: **React, Next, TailwindCSS, Django, DRF, REST APIs, PostgreSQL, Prisma ORM, Stripe, SSLcommerz, Redis, Nginix and Docker**
 - 📫 How to reach me [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:monzurulislamcse.0208@gmail.com)
