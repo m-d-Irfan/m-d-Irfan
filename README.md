@@ -30,7 +30,7 @@
 - **Role-Based Access & Admin Control:** Users register as student or instructor; instructor accounts stay pending until an admin approves or rejects them, with an emailed reason. Enforced via JWT auth and role-based route middleware, plus an admin dashboard for stats, user/course management, and enrollment cancellation.
 - **Course Authoring (Instructor):** Instructors create courses with modules and ordered lessons (title, content, video URL, thumbnails, pricing, publish toggle), managed from an instructor dashboard.
 - **Enrollment & Progress Tracking (Student):** Students browse and search published courses, enroll, work through lessons, and have completion progress tracked per lesson.
-- **Automated Certificate Issuance:** Once a student completes every lesson in a course, the backend auto-generates a certificate with a unique ID and emails it; a certificates list is available on the student dashboard.
+- **Automated Certificate Issuance:** Once a student completes every lesson in a course, the backend auto-generates a certificate with a unique ID and emails it; a certificates list is available on the student's dashboard.
 
 ---
 
